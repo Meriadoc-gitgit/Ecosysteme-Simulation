@@ -108,4 +108,5 @@ void lire_ecosys(const char *nom_fichier, Animal **liste_pred, Animal **liste_pr
 ## Remerciement
 Je tiens à exprimer mes sincères remerciements à mes professeurs, notamment les chargés du groupe 7 Informatique pour des lecons de C avancé qui m'intéressent vraiment et qui m'ont donné une telle motivation depuis le début des cours. <br>
 Et merci beaucoup à vous tous à avoir jeté un coup d'oeil sur ce projet simple de simulation d'écosystème :) <br>
+Tout est réalisé dans le cadre d'un projet de la 2ème et 3ème semaine, contribuant 25% de la note totale de l'UE 2IN018 - C avancé que propose Sorbonne Université durant le premier semestre en L2 Informatique. <br>
 <p align="center"><img src="IMG_4988.JPG"></p>
